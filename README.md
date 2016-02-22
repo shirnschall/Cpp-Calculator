@@ -3,3 +3,11 @@
 
 ###Compile using g++
 <code>g++ -std=c++11 calc.cpp -o calculator</code>
+
+###Usage
+To use this calculator just type in your calculation and hit enter!
+
+#####Functions
+To list all available functions type 
+<code>help</code>
+To use a function use the number next to it or type out the name
