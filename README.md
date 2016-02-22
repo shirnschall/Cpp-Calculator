@@ -11,3 +11,9 @@ To use this calculator just type in your calculation and hit enter!
 To list all available functions type 
 <code>help</code>
 To use a function use the number next to it or type out the name
+
+###Show steps
+In order to see all steps the calculator takes to solve the calculation type <br/> 
+<code>options</code> <br/>
+and hit <br/>
+<code>1</code>
