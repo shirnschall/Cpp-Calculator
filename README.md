@@ -9,7 +9,7 @@ To use this calculator just type in your calculation and hit enter!
 
 ###Functions
 To list all available functions type 
-<code>help</code>
+<code>help</code><br/>
 To use a function use the number next to it or type out the name
 
 ###Show steps
