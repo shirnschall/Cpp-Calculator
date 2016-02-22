@@ -15,3 +15,5 @@ To use a function use the number next to it or type out the name
 ###Show steps
 In order to see all steps the calculator takes to solve the calculation type <br/> 
 <code>options</code> and hit <code>1</code>
+
+![alt tag](https://www.dropbox.com/s/u5s424kjz0vs3x2/options.png)
